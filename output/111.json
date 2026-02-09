@@ -1,0 +1,15 @@
+{
+  "mapId" : 1001,
+  "width" : 20,
+  "height" : 20,
+  "cells" : [ {
+    "x" : 2,
+    "y" : 1,
+    "tileId" : 0,
+    "events" : [ {
+      "type" : 334,
+      "id" : 6,
+      "weight" : 5
+    } ]
+  } ]
+}
